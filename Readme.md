@@ -10,5 +10,5 @@ Lundi 19/12/2022 :
 - <a href="https://github.com/anthornade/IsitechNodeJS/tree/main/lundi">Voir dossier Lundi</a>
 
 Mardi 20/12/2022 :
-- <a href="https://github.com/anthornade/IsitechNodeJS/tree/main/mardi">Voir dossier Mardi</a>
+- <a href="https://github.com/anthornade/IsitechNodeJS/tree/main/Mardi">Voir dossier Mardi</a>
  
